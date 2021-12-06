@@ -11,7 +11,7 @@ This isn't an official Tolino website and it's in no way affiliated with tolino 
 - Accessing fastboot (*)
 - Opening the developer options (*)
 - Viewing hidden information in the settings
-- Overwriting the serial number
+- [Overwriting the serial number](serial-number.md)
 - [Changing the browser start page](resellerConfig.md)
 - Hopefully more soon
 
